@@ -1,0 +1,17 @@
+# QuantConnect Chikou Bitcoin Strategy Requirements
+# These dependencies are automatically available in QuantConnect environment
+
+# Core QuantConnect imports (included in platform)
+# AlgorithmImports
+# QuantConnect.Algorithm
+# QuantConnect.Indicators
+# QuantConnect.Data
+
+# Standard libraries used
+numpy>=1.19.0
+pandas>=1.3.0
+
+# For local development and testing (optional)
+# lean>=1.0.0  # QuantConnect LEAN engine for local testing
+# matplotlib>=3.3.0  # For plotting results
+# jupyter>=1.0.0  # For analysis notebooks
